@@ -3,7 +3,7 @@
     "@version": 1.1,
     "@protected": true,
     "BpnCredential": {
-      "@id": "https://raw.githubusercontent.com/catenax-ng/product-core-schemas/main/businessPartnerData#BpnCredential",
+      "@id": "https://raw.githubusercontent.com/splumb/catenaxng-miw/main/businessPartnerData#BpnCredential",
       "@context": {
         "@version": 1.1,
         "@protected": true,
@@ -13,7 +13,7 @@
       }
     },
     "MembershipCredential": {
-      "@id": "https://raw.githubusercontent.com/catenax-ng/product-core-schemas/main/businessPartnerData#MembershipCredential",
+      "@id": "https://raw.githubusercontent.com/splumb/catenaxng-miw/main/businessPartnerData#MembershipCredential",
       "@context": {
         "@version": 1.1,
         "@protected": true,
@@ -38,7 +38,7 @@
       }
     },
     "NameCredential": {
-      "@id": "https://raw.githubusercontent.com/catenax-ng/product-core-schemas/main/businessPartnerData#NameCredential",
+      "@id": "https://raw.githubusercontent.com/splumb/catenaxng-miw/main/businessPartnerData#NameCredential",
       "@context": {
         "@version": 1.1,
         "id": "@id",
@@ -82,7 +82,7 @@
       }
     },
    "BankAccountCredential": {
-      "@id": "https://raw.githubusercontent.com/catenax-ng/product-core-schemas/main/businessPartnerData#BankAccountCredential",
+      "@id": "https://raw.githubusercontent.com/splumb/catenaxng-miw/main/businessPartnerData#BankAccountCredential",
       "@context": {
         "@version": 1.1,
         "id": "@id",
@@ -117,7 +117,7 @@
       }
     },
     "AddressCredential": {
-      "@id": "https://raw.githubusercontent.com/catenax-ng/product-core-schemas/main/businessPartnerData#AddressCredential",
+      "@id": "https://raw.githubusercontent.com/splumb/catenaxng-miw/main/businessPartnerData#AddressCredential",
       "@context": {
         "@version": 1.1,
         "id": "@id",
@@ -172,7 +172,7 @@
       }
     },
     "LegalFormCredential": {
-      "@id": "https://raw.githubusercontent.com/catenax-ng/product-core-schemas/main/businessPartnerData#LegalFormCredential",
+      "@id": "https://raw.githubusercontent.com/splumb/catenaxng-miw/main/businessPartnerData#LegalFormCredential",
       "@context": {
         "@version": 1.1,
         "id": "@id",
